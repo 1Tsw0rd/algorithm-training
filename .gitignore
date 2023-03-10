@@ -64,3 +64,5 @@ gradlew
 gradlew.bat
 settings.gradle
 src/main/java/baekjoon/.editorconfig
+src/test/java/baekjoon/IntTest.java
+src/test/java/programmers_bootcamp/hanghae_MainTest.java
